@@ -63,7 +63,7 @@ const gadgetsData = {
         },
         {
           "name": "Galaxy Tab S7",
-          "image": "images/Galaxy Tab S7.jpg",
+          "image": "images/galaxy Tab S7.jpg",
           "overview": "The Galaxy Tab S7 features a stunning 11-inch LTPS TFT display, Snapdragon 865+ processor, S Pen support, and Dolby Atmos audio.",
           "specs": [
             "11-inch LTPS TFT display",
@@ -183,7 +183,7 @@ const gadgetsData = {
         },
         {
           "name": "AirPods Pro",
-          "image": "images/AirPods Pro.jpg",
+          "image": "images/Airpods Pro.jpg",
           "overview": "The AirPods Pro feature Active Noise Cancellation, Transparency mode, customizable fit, and immersive sound with Adaptive EQ.",
           "specs": [
             "Active Noise Cancellation for immersive sound",
@@ -263,7 +263,7 @@ const gadgetsData = {
         },
         {
           "name": "ThinkPad X1 Carbon",
-          "image": "images/ThinkPad X1 Carbon.jpg",
+          "image": "images/Thinkpad X1 Carbon.jpg",
           "overview": "The ThinkPad X1 Carbon features a durable carbon fiber construction, Intel Evo platform for high performance and responsiveness, and legendary ThinkPad reliability.",
           "specs": [
             "14-inch 4K UHD or FHD display with Dolby Vision HDR",
@@ -283,7 +283,7 @@ const gadgetsData = {
         },
         {
           "name": "ROG Zephyrus G14",
-          "image": "images/ROG Zephyrus G14.jpg",
+          "image": "images/Rog Zephyrus G14.jpg",
           "overview": "The ROG Zephyrus G14 features an AMD Ryzen 9 processor, NVIDIA GeForce RTX graphics, and AniMe Matrix LED display for customizable lighting effects.",
           "specs": [
             "14-inch Full HD display with 120Hz refresh rate",
