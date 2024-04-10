@@ -183,7 +183,7 @@ const gadgetsData = {
         },
         {
           "name": "AirPods Pro",
-          "image": "images/Airpods Pro.jpg",
+          "image": "images/AirPods Pro.jpg",
           "overview": "The AirPods Pro feature Active Noise Cancellation, Transparency mode, customizable fit, and immersive sound with Adaptive EQ.",
           "specs": [
             "Active Noise Cancellation for immersive sound",
@@ -263,7 +263,7 @@ const gadgetsData = {
         },
         {
           "name": "ThinkPad X1 Carbon",
-          "image": "images/Thinkpad X1 Carbon.jpg",
+          "image": "images/ThinkPad X1 Carbon.jpg",
           "overview": "The ThinkPad X1 Carbon features a durable carbon fiber construction, Intel Evo platform for high performance and responsiveness, and legendary ThinkPad reliability.",
           "specs": [
             "14-inch 4K UHD or FHD display with Dolby Vision HDR",
