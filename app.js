@@ -23,7 +23,7 @@ const gadgetsData = {
         },
         {
           "name": "Galaxy S21 Ultra",
-          "image": "images/galaxy S21 Ultra.jpg",
+          "image": "images/Galaxy S21 Ultra.jpg",
           "overview": "The Galaxy S21 Ultra features a 108MP quad-camera system, 120Hz Dynamic AMOLED display, powerful Exynos 2100 processor, and S Pen support.",
           "specs": [
             "6.8-inch Dynamic AMOLED 2X display with 120Hz refresh rate",
