@@ -23,7 +23,7 @@ const gadgetsData = {
         },
         {
           "name": "Galaxy S21 Ultra",
-          "image": "images/Galaxy S21 Ultra.jpg",
+          "image": "images/galaxy S21 Ultra.jpg",
           "overview": "The Galaxy S21 Ultra features a 108MP quad-camera system, 120Hz Dynamic AMOLED display, powerful Exynos 2100 processor, and S Pen support.",
           "specs": [
             "6.8-inch Dynamic AMOLED 2X display with 120Hz refresh rate",
@@ -63,7 +63,7 @@ const gadgetsData = {
         },
         {
           "name": "Galaxy Tab S7",
-          "image": "images/galaxy Tab S7.jpg",
+          "image": "images/Galaxy Tab S7.jpg",
           "overview": "The Galaxy Tab S7 features a stunning 11-inch LTPS TFT display, Snapdragon 865+ processor, S Pen support, and Dolby Atmos audio.",
           "specs": [
             "11-inch LTPS TFT display",
@@ -283,7 +283,7 @@ const gadgetsData = {
         },
         {
           "name": "ROG Zephyrus G14",
-          "image": "images/Rog Zephyrus G14.jpg",
+          "image": "images/ROG Zephyrus G14.jpg",
           "overview": "The ROG Zephyrus G14 features an AMD Ryzen 9 processor, NVIDIA GeForce RTX graphics, and AniMe Matrix LED display for customizable lighting effects.",
           "specs": [
             "14-inch Full HD display with 120Hz refresh rate",
