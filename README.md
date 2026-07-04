@@ -30,5 +30,5 @@ The website is hosted using GitHub Pages, a static site hosting service offered 
 
 By leveraging the capabilities of ChatGPT, I was able to bring my vision of Tech Gadgets Review to life without writing a single line of code myself. 🚀
 
-Feel free to explore the website and discover the exciting world of tech gadgets!
+Feel free to explore the website and discover the exciting world of tech gadgets!!
 
